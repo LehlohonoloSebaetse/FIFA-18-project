@@ -39,11 +39,9 @@ The data analysis gives a small but important picture of the attributes that pla
 
 ## _**References**_
 
-[1] Sahoo, K., Samal, A.K., Pramanik, J. and Pani, S.K., ‘Exploratory Data
-Analysis using Python’, ​International Journal of Innovative Technology and
-Exploring Engineering (IJITEE).vol. 8, no. 12, pp 4728- 4735.
-[2] Restori, M, ​What is Exploratory Data Analysis, viewed 17 December 2020,
-< h
-ttps://chartio.com/learn/data-analytics/what-is-exploratory-data-analysis/#:
-~:text=In%20data%20mining%2C%20Exploratory%20Data,us%20before%20t
-he%20modeling%20task​.>
+[1] Sahoo, K., Samal, A.K., Pramanik, J. and Pani, S.K., ‘Exploratory Data Analysis using Python’, ​International Journal of Innovative Technology and Exploring Engineering (IJITEE).vol. 8, no. 12, pp 4728- 4735.
+
+[2] Restori, M, ​What is Exploratory Data Analysis, viewed 17 December 2020, < https://chartio.com/learn/data-analytics/what-is-exploratory-data-analysis/#: 
+~:text=In%20data%20mining%2C%20Exploratory%20Data,us%20before%20the%20modeling%20task​.>
+
+[link to FIFA 18 report](https://github.com/LehlohonoloSebaetse/FIFA-18-project/blob/main/EDA%20(1).docx%20(3).pdf)
